@@ -45,7 +45,7 @@ def re(r,v,d,mi):
 #Nr Reynolds para velocidades de cruzeiro e de estol
 rec=re(r,vc,c,mu)
 ree=re(r,ve,c,mu)
-#Obtenção do Reynolds ideal
+#Obtenção da velocidade para o Reynolds escolhido
 rei=9*(10**6) #Reynolds ideal
 reref=0
 v=ve
